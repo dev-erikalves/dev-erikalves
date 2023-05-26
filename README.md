@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-erikalves) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developerik.web/)
 
-![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-erikalves&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-erikalves&show_icons=true&theme=transparent)
 
 
 ## Tecnologias que uso no dia a dia 👇
@@ -18,4 +18,4 @@
 </div>
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-erikalves&layout=compact)](https://github.com/dev-erikalves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-erikalves&layout=compact)](https://github.com/dev-erikalves/)
