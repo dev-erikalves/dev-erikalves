@@ -1,4 +1,3 @@
-<img align="right" height="400em" src="https://cdn.discordapp.com/attachments/1091425036440711289/1120089801627009186/Eu_01.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Erik Alves</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-erikalves&color=yellow" alt="Profile views" /> </p>  -->
 
