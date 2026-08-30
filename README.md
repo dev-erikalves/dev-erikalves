@@ -1,18 +1,18 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, welcome.</h1>
+<!-- <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, welcome.</h1> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-erikalves&color=yellow" alt="Profile views" /> </p>  -->
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-erikalves)
+# Erik Alves
 
-- 🔥 Developer
+**Software Engineer | Salesforce & Cloud Solutions**
 
-- 📚 In constant learning
+Desenvolvedor focado na construção de aplicações corporativas, automação de processos e integrações de sistemas. Experiência na implementação de soluções no ecossistema Salesforce e no desenvolvimento full-stack.
 
-- 💡Turning ideas into real projects
-<br><br>
+---
 
-### Technologies I use often 👇
+### Stack & Tecnologias
 
 <div style="display: inline-block"><br>
+    <img align="center" alt="SALESFORCE" src="https://img.shields.io/badge/Salesforce-00A1E0?logo=Salesforce&logoColor=white"/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
@@ -32,3 +32,9 @@
     <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
     <img align="center" alt="WINDOWS" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
 </div><br>
+
+---
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-erikalves)
